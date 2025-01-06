@@ -1,5 +1,7 @@
 # Unified Robot Description FIle Example
 
+URDF, Unified Robot Description Format is an XML format for representing a robot model. It is commonly used in Robot Operating System (ROS) tools such as rviz (Ros Visualization tool) and Gazebo simulator. The model consists of links and joints motion.
+
 ### demo image
 <p align="center">
   <img src="https://res.cloudinary.com/diekemzs9/image/upload/v1736180017/Screenshot_from_2025-01-06_18-50-22_kow97l.png" alt="Image 1" width="615">
